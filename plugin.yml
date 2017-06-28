@@ -4,3 +4,8 @@ version: 1.0
 api: 3.0.0-ALPHA5
 author: Lazer
 website: imgcl.co (Will be published on)
+commands:
+  ban:
+    description: MegaBan a player
+    usage: "/ban (bans the user)"
+    default: op
